@@ -12,7 +12,7 @@ the answers are yes or no based like the old magic 8-ball. there are three ways 
 <ol>
   <li>quit</li> 
   <li>exit</li>
-  <li>is to insult it by telling it you suck</li>
+  <li>insult it by telling it "you suck"</li>
 </ol>
 
 <h4>LEARNED:<h/4>
